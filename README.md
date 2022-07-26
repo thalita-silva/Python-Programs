@@ -1,3 +1,3 @@
 ## Hey there!
 
-Here you're gonna find soma algorithms developed using Python :)
+Here you're gonna find some algorithms developed using Python :)
